@@ -48,6 +48,8 @@ p
     text-align: center;;
     margin: auto;
     font-family: 'Montserrat', sans-serif;
+    font-size: 75%;
+    margin-top: 10%;
 }
 
 .bar
