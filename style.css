@@ -1,3 +1,7 @@
+header
+{
+    color: white;
+}
 body
 {
     display: grid;
@@ -7,7 +11,6 @@ body
     width: 50%;
     background-color: rgb(189, 217, 227);
     margin:auto;
-   
 }
 
 section
@@ -97,6 +100,7 @@ button:hover
     margin: 10%;
     padding: auto;
     border-radius: 10% / 50%;
+    transition: 15%;
 }
 a:link, a:visited
 {
@@ -111,6 +115,13 @@ a:hover
     font-weight: bold;
     font-family: 'Montserrat', sans-serif;
     text-decoration:none;
+    width: 250px;
+
+}
+
+footer
+{
+    color: white;
 }
 
 
